@@ -1,0 +1,16 @@
+# SDK and upstream source clones (fetch separately; see README.md)
+/wup-homebrew/
+/doomgeneric/
+
+# Game data is not redistributed here
+*.wad
+*.WAD
+
+# Build output, generated headers and caches
+**/build/
+**/__pycache__/
+*.pyc
+
+# Local notes / editor files
+*.code-workspace
+.DS_Store
