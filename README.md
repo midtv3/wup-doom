@@ -13,10 +13,6 @@ Status: **working**, running Doom Shareware 1.9 on real hardware.
 | Path | What |
 | --- | --- |
 | `doom-wup/` | The app: `app.cfg`, `main.c`, `wup_platform.c`, patched engine sources in `engine/`. Full details in [doom-wup/README.md](doom-wup/README.md). |
-| `wup-homebrew/` | The SDK clone. `libwup/` is the runtime and build tools; `wup-menu/` is the Homebrew Menu; `wup-emu/` is the firmware emulator. |
-| `doomgeneric/` | Upstream engine clone. |
-| `doom-wup/doom1.wad` | Local copy of the Shareware 1.9 WAD currently installed on the pad. |
-| `DOOM1.WAD` | The original Shareware 1.1 WAD (kept for reference; not compatible with this engine without patches). |
 
 ## Requirements
 
